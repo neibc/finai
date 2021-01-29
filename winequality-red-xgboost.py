@@ -1,6 +1,6 @@
 # First XGBoost model for Pima Indians dataset
 # from https://machinelearningmastery.com/develop-first-xgboost-model-python-scikit-learn/
-# csv file : https://raw.githubusercontent.com/jbrownlee/Datasets/master/pima-indians-diabetes.data.csv
+# csv file : https://github.com/bbangpan/finai/blob/main/winequality-red-binary.csv
 
 from numpy import loadtxt
 from xgboost import XGBClassifier
